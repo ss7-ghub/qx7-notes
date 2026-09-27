@@ -1,7 +1,7 @@
 {
   "app": "ss7-stabilizer",
-  "latest": "1.2.2",
-  "min": "1.2.2",
-  "apk": "https://github.com/ss7-ghub/qx7-notes/releases/download/v1.2.2/s7-update.apk",
-  "note": "v1.2.2: chain test. Old versions locked."
+  "latest": "1.2.3",
+  "min": "1.2.3",
+  "apk": "https://github.com/ss7-ghub/qx7-notes/releases/download/v1.2.3/s7-update.apk",
+  "note": "v1.2.3: granular failure stages. Old versions locked."
 }
