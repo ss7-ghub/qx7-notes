@@ -1,7 +1,7 @@
 {
   "app": "ss7-stabilizer",
-  "latest": "1.2.8",
-  "min": "1.2.8",
-  "apk": "https://github.com/ss7-ghub/qx7-notes/releases/download/v1.2.8/s7-update.apk",
-  "note": "v1.2.8: stdin-stream install fix + full guard. Old versions locked."
+  "latest": "1.2.9",
+  "min": "1.2.9",
+  "apk": "https://github.com/ss7-ghub/qx7-notes/releases/download/v1.2.9/s7-update.apk",
+  "note": "v1.2.9: stdin-stream final test. Old versions locked."
 }
