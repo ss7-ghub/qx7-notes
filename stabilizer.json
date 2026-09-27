@@ -2,6 +2,6 @@
   "app": "ss7-stabilizer",
   "latest": "1.2.0",
   "min": "1.2.0",
-  "apk": "https://github.com/ss7-ghub/qx7-notes/releases/download/v1.1.0/s7-update.apk",
-  "note": "UJI full-chain 27 Sep: min sengaja di atas app 1.1.0. File apk masih v1.1.0 (install=test reinstall). REVERT ke 1.1.0 setelah uji."
+  "apk": "https://github.com/ss7-ghub/qx7-notes/releases/download/v1.2.0/s7-update.apk",
+  "note": "v1.2.0: in-app progress + auto install. Old versions locked."
 }
