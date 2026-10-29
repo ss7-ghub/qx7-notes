@@ -29,5 +29,3 @@ SPEAR: hook=.. hits=.. acc=.. spears=..
 
 ## Urutan uji (12 menit, satu sesi server)
 `base_v37` -> `base_v4` -> `magicspear_v37` (tembak 5x) -> `magicspear_v4` (tembak 5x)
-
-- `ss7magicspear_v4min72_echo_probe.luau` — build UJI (v4min71 + penghitung fs/orig/close, instrumentasi saja), BUKAN produksi.
